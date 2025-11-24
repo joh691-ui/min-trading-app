@@ -5,7 +5,7 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # --- SID-KONFIGURATION ---
-st.set_page_config(page_title="QuantTrader", page_icon="🚀", layout="centered")
+st.set_page_config(page_title="Skapa S&P500-portfölj", page_icon="🚀", layout="centered")
 
 # --- CSS FÖR ATT FÅ DET ATT SE UT SOM EN APP PÅ MOBILEN ---
 st.markdown("""
